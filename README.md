@@ -4,13 +4,13 @@
 -----
 
 - **Home**
-![Home Page]()
+![Home Page](https://github.com/im-ayush/CoffeeShop/blob/master/project-screenshots/home.PNG)
 
 - **Drink Details/Edit**
-![Drink]()
+![Drink](https://github.com/im-ayush/CoffeeShop/blob/master/project-screenshots/drink.PNG)
 
 - **New Drink**
-![New Drink]()
+![New Drink](https://github.com/im-ayush/CoffeeShop/blob/master/project-screenshots/new-drink.PNG)
 
 -----
 Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
